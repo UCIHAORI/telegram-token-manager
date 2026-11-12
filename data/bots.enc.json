@@ -2,16 +2,6 @@
   "version": 1,
   "bots": [
     {
-      "id": "e71e630e-71a3-45ac-babe-491cecc28277",
-      "owner": "Putz",
-      "telegramId": "8916091139",
-      "username": "NoroiTest_Bot",
-      "iv": "HEdkOxmz4qoet3Mt",
-      "tag": "TUjbIu02cj+nCVfXmCX1Aw==",
-      "data": "MIAZfV2xvDVzap4TXQPOWlEWOEL2Hm+Q+G7kzWgAXpaU2/u2WGZ+ELb3zJEWhw==",
-      "createdAt": "2026-11-12T13:29:01.951Z"
-    },
-    {
       "id": "a743165c-ce72-4428-97e4-b7b30847b9c8",
       "owner": "Uciha",
       "telegramId": "8814083379",
