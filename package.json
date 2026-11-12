@@ -1,0 +1,13 @@
+{
+  "name": "telegram-token-manager-mongodb",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {"node": ">=20"},
+  "scripts": {"dev": "vercel dev"},
+  "dependencies": {
+    "cookie-parser": "1.4.7",
+    "express": "4.21.2",
+    "mongodb": "6.15.0"
+  },
+  "devDependencies": {"vercel": "41.7.8"}
+}
