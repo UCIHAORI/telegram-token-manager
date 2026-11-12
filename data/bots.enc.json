@@ -1,4 +1,15 @@
 {
   "version": 1,
-  "bots": []
+  "bots": [
+    {
+      "id": "63a2c13b-e009-42ba-9f53-d89a6cea3261",
+      "owner": "BOSS",
+      "telegramId": "9210614494",
+      "username": "XavaLite_Bot",
+      "iv": "4TmbSUOscR/Mnyzn",
+      "tag": "gGMmXjNij9vjdxNIdYwi3Q==",
+      "data": "dn/w67TyWzv76xP2MmzNrreRvv48sC8pwgVWDk6ZrHa+Dbl7R/dipAwwjkhlGA==",
+      "createdAt": "2026-11-12T13:53:45.862Z"
+    }
+  ]
 }
